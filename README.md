@@ -1,5 +1,3 @@
-Sure! Below is a fictional resume for a Python library that serves as a client for the EnergyStar API.
-
 ---
 
 **Library Name:** `energystar-python-client`
